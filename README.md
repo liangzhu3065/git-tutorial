@@ -5,3 +5,4 @@
  - fix-B
  - feature-A
  - feature-D feature-D
+ - feature-E feature-E
